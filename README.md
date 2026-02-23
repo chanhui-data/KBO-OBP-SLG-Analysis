@@ -1,6 +1,14 @@
 # KBO-OBP-SLG-Analysis
 KBO 공개데이터를 활용하여 23~25시즌의 OBP-SLG-Analysis
 # KBO OBP vs SLG Analysis (2023~2025)
+README.md  ← (요약 보고서)
+├── data/
+│     ├── kbo_2023.xlsx
+│     ├── kbo_2024.xlsx
+│     └── kbo_2025.xlsx
+
+── notebook/
+│     └── KBO-OBP-SLG-Alalysis.ipynb
 
 ## 1. 분석 목적
 출루율(OBP)과 장타율(SLG) 중 어떤 지표가 승률에 더 큰 영향을 미치는지 분석하였다.
